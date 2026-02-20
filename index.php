@@ -2,7 +2,7 @@
 // ==========================================
 // CONFIGURAÇÕES
 // ==========================================
-$n8nUrl = 'https://ia-n8n.nvezru.easypanel.host'; // Sem barra no final
+$n8nUrl = 'https://easypanel.host'; // Sem barra no final
 $apiKey = 'sua-chave-api-aqui';
 
 // ==========================================
